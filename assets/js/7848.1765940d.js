@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_template_lab=self.webpackChunkdocusaurus_template_lab||[]).push([["7848"],{3668:function(e,a,u){u.d(a,{createPacketServices:()=>s.g});var s=u(3846);u(9904)}}]);
